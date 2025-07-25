@@ -1,0 +1,9 @@
+# === Sensitive Configuration Files ===
+common/db.php
+
+# === Uploads & User Files ===
+uploads/
+
+# === SQL Dumps & Backups ===
+architecture_website.sql
+
